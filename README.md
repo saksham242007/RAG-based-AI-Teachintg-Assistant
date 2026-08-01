@@ -1,3 +1,3 @@
 # RAG-based-AI-Teachintg-Assistant
 AI-powered lecture video search using Whisper and semantic search.
-and by which it will
+and by which it will change the 
