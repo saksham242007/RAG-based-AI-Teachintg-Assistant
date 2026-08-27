@@ -3,4 +3,3 @@ AI-powered lecture video search using Whisper and semantic search.
 and by which it will
 WORKING ON THE PROJECT
 on the
-w
