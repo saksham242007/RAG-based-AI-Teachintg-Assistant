@@ -5,4 +5,3 @@ WORKING ON THE PROJECT
 with the thing of
 in the 
 of
-in
