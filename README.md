@@ -4,4 +4,3 @@ and by which it will
 WORKING ON THE PROJECT 
 with the thing of
 in the 
-of
