@@ -2,5 +2,4 @@
 AI-powered lecture video search using Whisper and semantic search.
 and by which it will
 WORKING ON THE PROJECT
-in the of 
-i
+in the of with  the 
